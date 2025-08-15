@@ -1,1 +1,1 @@
-# IMC
+# Media do Aluno
